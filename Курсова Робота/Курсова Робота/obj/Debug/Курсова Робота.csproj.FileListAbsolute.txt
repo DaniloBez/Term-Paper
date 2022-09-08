@@ -1,0 +1,22 @@
+C:\Users\dbezu_6s19xdh\Desktop\інф_ЛИТ\9 клас\Курсова Робота\Курсова Робота\bin\Debug\Курсова Робота.exe.config
+C:\Users\dbezu_6s19xdh\Desktop\інф_ЛИТ\9 клас\Курсова Робота\Курсова Робота\bin\Debug\Курсова Робота.exe
+C:\Users\dbezu_6s19xdh\Desktop\інф_ЛИТ\9 клас\Курсова Робота\Курсова Робота\bin\Debug\Курсова Робота.pdb
+C:\Users\dbezu_6s19xdh\Desktop\інф_ЛИТ\9 клас\Курсова Робота\Курсова Робота\obj\Debug\Курсова Робота.csproj.AssemblyReference.cache
+C:\Users\dbezu_6s19xdh\Desktop\інф_ЛИТ\9 клас\Курсова Робота\Курсова Робота\obj\Debug\Курсова Робота.csproj.SuggestedBindingRedirects.cache
+C:\Users\dbezu_6s19xdh\Desktop\інф_ЛИТ\9 клас\Курсова Робота\Курсова Робота\obj\Debug\Курсова_Робота.Form1.resources
+C:\Users\dbezu_6s19xdh\Desktop\інф_ЛИТ\9 клас\Курсова Робота\Курсова Робота\obj\Debug\Курсова_Робота.Properties.Resources.resources
+C:\Users\dbezu_6s19xdh\Desktop\інф_ЛИТ\9 клас\Курсова Робота\Курсова Робота\obj\Debug\Курсова Робота.csproj.GenerateResource.cache
+C:\Users\dbezu_6s19xdh\Desktop\інф_ЛИТ\9 клас\Курсова Робота\Курсова Робота\obj\Debug\Курсова Робота.csproj.CoreCompileInputs.cache
+C:\Users\dbezu_6s19xdh\Desktop\інф_ЛИТ\9 клас\Курсова Робота\Курсова Робота\obj\Debug\Курсова Робота.exe
+C:\Users\dbezu_6s19xdh\Desktop\інф_ЛИТ\9 клас\Курсова Робота\Курсова Робота\obj\Debug\Курсова Робота.pdb
+C:\Users\dbezu_6s19xdh\Desktop\інф\9 клас\Курсова Робота\Курсова Робота\bin\Debug\Курсова Робота.exe.config
+C:\Users\dbezu_6s19xdh\Desktop\інф\9 клас\Курсова Робота\Курсова Робота\bin\Debug\Курсова Робота.exe
+C:\Users\dbezu_6s19xdh\Desktop\інф\9 клас\Курсова Робота\Курсова Робота\bin\Debug\Курсова Робота.pdb
+C:\Users\dbezu_6s19xdh\Desktop\інф\9 клас\Курсова Робота\Курсова Робота\obj\Debug\Курсова Робота.csproj.AssemblyReference.cache
+C:\Users\dbezu_6s19xdh\Desktop\інф\9 клас\Курсова Робота\Курсова Робота\obj\Debug\Курсова Робота.csproj.SuggestedBindingRedirects.cache
+C:\Users\dbezu_6s19xdh\Desktop\інф\9 клас\Курсова Робота\Курсова Робота\obj\Debug\Курсова_Робота.Form1.resources
+C:\Users\dbezu_6s19xdh\Desktop\інф\9 клас\Курсова Робота\Курсова Робота\obj\Debug\Курсова_Робота.Properties.Resources.resources
+C:\Users\dbezu_6s19xdh\Desktop\інф\9 клас\Курсова Робота\Курсова Робота\obj\Debug\Курсова Робота.csproj.GenerateResource.cache
+C:\Users\dbezu_6s19xdh\Desktop\інф\9 клас\Курсова Робота\Курсова Робота\obj\Debug\Курсова Робота.csproj.CoreCompileInputs.cache
+C:\Users\dbezu_6s19xdh\Desktop\інф\9 клас\Курсова Робота\Курсова Робота\obj\Debug\Курсова Робота.exe
+C:\Users\dbezu_6s19xdh\Desktop\інф\9 клас\Курсова Робота\Курсова Робота\obj\Debug\Курсова Робота.pdb
